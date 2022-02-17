@@ -5,24 +5,24 @@
 </a>
 <hr/>
 
-## Who am I?🤔
-
-That's a big question, but I'll give you the gist. I'm currently working as a front end dev with a strong focus in React and Typescript, but have dabbled in many languages and learned programming first through C and C++.✨ I was introduced to programming through my education in the [Software Engineering Technology](https://www.conestogac.on.ca/fulltime/software-engineering-technology) program at Conestoga College.<br/><br/>
-My foundation in C and C++ afforded me a deeper understanding of the application of high level functionality in low level terms, and as such I have an easy time picking up and applying new languages and their features. Looking past differences in syntax, concepts such as passing by reference, by value, as a reference, memory allocation, or stack and heap management are all well understood as to how they are managed by newer languages and frameworks. <br/><br/>
-I have a general interest in the tech field and look forward to learning many new concepts on my journey through my software developer career. When I'm not at work, I'm either getting some game time in, at the gym, rock climbing, or cooking something tasty in the kitchen for myself and my partner.🧑‍🍳
+## About Me
+I'm a web developer currently employed at a web development consultancy called <a href="https://vehikl.com/">Vehikl</a>. I primarily use PHP and Laravel for my day to day work, but have recently taken an interest in exploring how other backend frameworks such as NestJS (with Prisma) solve the problems that Laravel has set out to solve. I'm well versed in Typescript and am passable with React and Vue. When I'm not working on code, I'm probably either gaming, exercising, cooking, or cleaning up my cats' toys. 
 
 ## Toolbox 🧰
 ### Current👇
 <span>
-  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
 </span>
 
 ### To Date 🕦
 <span>
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
